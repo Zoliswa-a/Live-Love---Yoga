@@ -1,39 +1,87 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Tranquil Life
 
-Welcome,
+##Helping to bring yoga and meditaion to your daily life
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Tranquil Life is a website that provides information about yoga and meditation. It helps you keep up with your physical health wheather you have 5 mintues or enough time to focus on a specific goal. The site is beginner friendly , it offers information about 6 different types of yoga and their orgin or belief and advantages. It also offeres external links that refer to video and audion that could help users access to a link to a more specific search.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Users are given a step by step basic beginner guide on how to meditate. it also offers a sign up for a newsleter on group events and health tips.The site is to easy access and read thru.
 
-## Codeanywhere Reminders
+##Feature
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+###Navigation
 
-`python3 -m http.server`
+navigation bar
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+There is a navigation attached to the site name, Tranquil Life that is in the center of the page lands you to the top of page.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+There is a naviagtion bar for Home, Yoga and Meditation the center of page under heading. These take you to the specified sections of this page. theses are blue and when you hover it turns gold.
 
-`http_server`
+The site also offers a navigation bar for the Yoga section to help navigate you through the content for different types of yoga.Which is located 2/3 of the page ,in a horizontal line under the types-of-yoga in the Yoga section.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+yoga-nav-picture
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Header
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+header-main-nav-picture
 
-To log into the Heroku toolbelt CLI:
+The header contains the site name, the slogan and a navigation bar that helps you gain easier access to the rest of the page.
+This section is supposed to imply what wethe site does which the slogan targets and the the title is a supportsing factor.
+home-picture
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Landing Image
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+The landing image gives an visual atmosphere to the site.
+The image is of 3 indivisuals strecting outdoors.
+Why us
 
----
+The about us page goes into the reason why to use this site and the advantages.
+It also gives a brief statement on who the site could be for.
+Featured here is also the advantages of Yoga and Meditating
+Yoga
 
-Happy coding!
+There is a Yoga title which has a navigation that can access it from the top of the page.
+A sub heading below the section heading that the specfies that the content below is for Types of yoga
+The Yoga section is the area with the most content and will find it in a box neatly separated
+All available boxes are scrollable with the content of different types of yoga.
+a nav bar for types of yoga
+All Types of yoga boxes have attached an external link to a general search of the specfic yoga type selected video content.
+Yoga-picture
+
+Meditation
+
+Featured in this section is a basic step-by-step process into going into a meditative state.
+This gives user enough information to start the process.
+Featured also is and external link to helps user to go to a more specific search after the steps.
+Meditation-picture
+
+**Footer**
+
+- The attached footer is a permenate part of the page which visible throughout the site.
+- There is a link navigating user to external social media links to help users connect easier to us.
+-  Instagram, Facebook, Twitter
+
+![Footer-picture](https://user-images.githubusercontent.com/128863897/229279820-15f6da2f-b7ec-4553-830a-1a1393830c54.png)
+
+
+  **Deployment**
+
+-This site was deployed to GitHub pages
+-Turned the deployment branch into a main 
+-The page then provided the link.
+
+-url(https://zoliswasb.github.io/Tranquil-Life/)
+
+  **Credits**
+
+  ***Content***
+
+  -The manner in which the nav bar is stated was taken from Loveruning
+
+  -url(https://code-institute-org.github.io/love-running-2.0/index.html) 
+
+  -The Footer was permanent structure was influenced by Coders Coffehouse
+  -url(unavailable)
+Images
+
+-All attacted images are from Pixels url(https://www.pexels.com/)![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
